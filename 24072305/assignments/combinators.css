@@ -1,0 +1,6 @@
+.container p{
+    color: blue;
+}
+.container>.child{
+    color: green;
+}
